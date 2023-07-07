@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Repo forked by vrushank41
+Updated the architecture using the factory method and implemented the code for task2
