@@ -141,7 +141,7 @@ class TestRorschach(unittest.TestCase):
 
     def test_engine_should_not_be_serviced(self):
         last_service_date = datetime.today().date()
-        current_mileage = 60000
+        current_mileage = 60001
         last_service_mileage = 0
 
         car = Rorschach(last_service_date, current_mileage, last_service_mileage)
