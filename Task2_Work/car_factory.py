@@ -38,5 +38,8 @@ class CarFactory:
         engine = CapuletEngine(current_mileage,last_service_mileage)
         battery = NubbinBattery(current_date,last_service_date)
         return Car(engine, battery)
+    
+# car = CarFactory.create_calliope(date.today(),date.today().replace(year=date.today().year - 3),50000,30000)
+# print("Calliope needs to be serviced:",car)
 
     
