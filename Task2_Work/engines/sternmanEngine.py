@@ -1,4 +1,4 @@
-from engine_parent import Engine
+from engines.engine_parent import Engine
 
 class SternmanEngine(Engine):
     warning_light_on:bool

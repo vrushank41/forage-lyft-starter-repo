@@ -39,7 +39,7 @@ class CarFactory:
         battery = NubbinBattery(current_date,last_service_date)
         return Car(engine, battery)
     
-# car = CarFactory.create_calliope(date.today(),date.today().replace(year=date.today().year - 3),50000,30000)
-# print("Calliope needs to be serviced:",car)
+# car = CarFactory.create_calliope(date.today(),date.today().replace(year=date.today().year - 2),50000,30000)
+# print("Calliope needs to be serviced:",car.needs_service())
 
     

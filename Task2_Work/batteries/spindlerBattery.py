@@ -1,4 +1,4 @@
-from battery_parent import Battery
+from batteries.battery_parent import Battery
 from datetime import date,datetime
 
 class SpindlerBattery(Battery):
