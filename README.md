@@ -1,8 +1,17 @@
-# Repo forked by vrushank41
-Built the architecture of given scenario at LYFT challenge
+# [Back-End Engineering at LYFT](https://www.theforage.com/career-path/software-engineering/firms/lyft/virtual-internships/lyft-back-end-engineering-virtual-experience-program?ref=SE8pQjuffyNrRrgxS)
+
+## Refactored a codebase at the backend designed by the Lyft team to enhance the working ,enabling loose coupling which fixes the modularity of the codebase
+
+
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Forage Experience](https://www.theforage.com)
+ - [Used readme.so for designing the readme](https://readme.so)
+
+
+## Certified
+
+![LYFT Certificate](https://github.com/vrushank41/forage-lyft-starter-repo/blob/main/certificate.png?raw=true)
+
+
